@@ -1,5 +1,8 @@
 # Science Time Series: Deep Learning in Hydrology
 
+## Paper
+
+
 ## Train
 - Training checkpoints will be stored in a directory named "checkpoints" in the "Hydrology" directory.
 - Locations used for training and validation are stored in a file named "Validation[RunName]" in the "Hydrology" directory.
@@ -18,7 +21,24 @@
 ## Repository Structure
 ```
 Hydrology
-|
-├── 
-│   
+│
+├── data
+│   ├── CAMELS-US-preprocessed
+│   ├──
+│   ├──
+│   ├──
+│   ├── Caravan
+│   │   ├── 
+│   │   ├──
+│   │   ├── 
+│   │   ├──
+│   │   ├── 
+│   │   ├──
+│   │   └──
+├── preprocessing
+│   ├──
+│   ├──
+│   ├──
+│   └──
+├── Hydrology-LSTM.ipynb
 ```
