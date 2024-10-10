@@ -17,27 +17,56 @@ Junyang He, Ying-Jung Chen, Anushka Idamekorala, Geoffrey Fox
 - numpy
 - Tensorflow v.15.1
 
-## Repository Structure
+## Data Structure
 ```
-Hydrology
+data
+├── CAMELS-US
+│   ├── BasicInputStaticProps.npy
+│   ├── BasicInputTimeSeries.npy
+│   └── metadata.json
 │
-├── Hydrology-LSTM.ipynb
+├── CAMELS-combined
+│   ├── us
+│   │   ├── BasicInputStaticProps_us_combined.npy
+│   │   ├── BasicInputTimeSeries_us_combined.npy
+│   │   └── metadata_us_combined.json
+│   ├── gb
+│   │   ├── BasicInputStaticProps_gb_combined.npy
+│   │   ├── BasicInputTimeSeries_gb_combined.npy
+│   │   └── metadata_gb_combined.json
+│   └── cl
+│       ├── BasicInputStaticProps_cl_combined.npy
+│       ├── BasicInputTimeSeries_cl_combined.npy
+│       └── metadata_cl_combined.json
 │
-├── preprocessing
-│   ├── camels_us_preprocess.ipynb
-│   ├── camels_gb_preprocess.ipynb
-│   ├── camels_cl_preprocess.ipynb
-│   └── caravan_preprocess.ipynb
-│   
-└── data
-    ├── CAMELS-US
-    ├── CAMELS-combined
-    └── Caravan
-        ├── 
-        ├──
-        ├── 
-        ├──
-        ├── 
-        ├──
-        └──
+└── Caravan
+    ├── camels
+    │   ├── BasicInputStaticProps_camels.npy
+    │   ├── BasicInputTimeSeries_camels.npy
+    │   └── metadata_camels.json
+    ├── camelsaus
+    │   ├── BasicInputStaticProps_camelsaus.npy
+    │   ├── BasicInputTimeSeries_camelsaus.npy
+    │   └── metadata_camelsaus.json
+    ├── camelsbr
+    │   ├── BasicInputStaticProps_camelsbr.npy
+    │   ├── BasicInputTimeSeries_camelsbr.npy
+    │   └── metadata_camelsbr.json
+    ├── camelscl
+    │   ├── BasicInputStaticProps_camelscl.npy
+    │   ├── BasicInputTimeSeries_camelscl.npy
+    │   └── metadata_camelscl.json
+    ├── camelsgb
+    │   ├── BasicInputStaticProps_camelsgb.npy
+    │   ├── BasicInputTimeSeries_camelsgb.npy
+    │   └── metadata_camelsgb.json
+    ├── hysets
+    │   ├── BasicInputStaticProps_hysets.npy
+    │   ├── BasicInputTimeSeries_hysets.npy
+    │   └── metadata_hysets.json
+    └── lamah
+        ├── BasicInputStaticProps_lamah.npy
+        ├── BasicInputTimeSeries_lamah.npy
+        └── metadata_lamah.json
+
 ```
