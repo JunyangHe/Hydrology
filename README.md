@@ -21,21 +21,23 @@ Junyang He, Ying-Jung Chen, Anushka Idamekorala, Geoffrey Fox
 ```
 Hydrology
 │
-├── data
-│   ├── CAMELS-US-preprocessed
-│   ├── CAMELS-combined-preprocessed
-│   ├── Caravan
-│   │   ├── 
-│   │   ├──
-│   │   ├── 
-│   │   ├──
-│   │   ├── 
-│   │   ├──
-│   │   └──
+├── Hydrology-LSTM.ipynb
+│
 ├── preprocessing
 │   ├── camels_us_preprocess.ipynb
 │   ├── camels_gb_preprocess.ipynb
 │   ├── camels_cl_preprocess.ipynb
 │   └── caravan_preprocess.ipynb
-├── Hydrology-LSTM.ipynb
+│   
+└── data
+    ├── CAMELS-US
+    ├── CAMELS-combined
+    └── Caravan
+        ├── 
+        ├──
+        ├── 
+        ├──
+        ├── 
+        ├──
+        └──
 ```
