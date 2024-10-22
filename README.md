@@ -3,7 +3,7 @@
 Junyang He, Ying-Jung Chen, Anushka Idamekorala, Geoffrey Fox
 
 ## Paper
-arXiv: 
+Preprint: https://arxiv.org/abs/2410.15218
 
 ## Train
 - Training checkpoints will be stored in a directory named "checkpoints" in the "Hydrology" directory.
@@ -68,3 +68,14 @@ data
 ```
 
 ## Cite
+```
+@misc{he2024sciencetimeseriesdeep,
+      title={Science Time Series: Deep Learning in Hydrology}, 
+      author={Junyang He and Ying-Jung Chen and Anushka Idamekorala and Geoffrey Fox},
+      year={2024},
+      eprint={2410.15218},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.15218}, 
+}
+```
