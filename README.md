@@ -13,9 +13,12 @@ Preprint: https://arxiv.org/abs/2410.15218
 - One must select a previously finished run to evaluate.
 - Plots will be stored in a directory named "Outputs" in the "Hydrology" directory.
 
-## Data Structure
+## Data
+Link: https://doi.org/10.5281/zenodo.13975174
+
+### Data Structure
 ```
-data
+hydrology_data_processed
 ├── CAMELS-US
 │   ├── BasicInputStaticProps.npy
 │   ├── BasicInputTimeSeries.npy
