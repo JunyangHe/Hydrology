@@ -5,7 +5,7 @@ Junyang He, Ying-Jung Chen, Anushka Idamekorala, Geoffrey Fox
 This repo contains the LSTM model and data preprocessing code for the paper [Science Time Series: Deep Learning in Hydrology](https://arxiv.org/abs/2410.15218).
 
 
-## Hydrology-LSTM Script
+## Hydrology-LSTM.ipynb
 Our executable model script is designed to be run on Google Colab. 
 
 ### Train
