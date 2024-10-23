@@ -3,7 +3,9 @@
 Junyang He, Ying-Jung Chen, Anushka Idamekorala, Geoffrey Fox
 
 University of Virginia, Department of Computer Science
+
 University of Virginia, Biocomplexity Institute and Initiative
+
 Georgia Institute of Technology, College of Computing
 
 This repo contains the code for the paper [Science Time Series: Deep Learning in Hydrology](https://arxiv.org/abs/2410.15218).
