@@ -1,1 +1,21 @@
+tensorflow v2.15.1
+tqdm
+psutil
+os
+gc
+csv
+sys
+random
+math
+numpy
+matplotlib
+textwrap
 pandas
+io
+string
+sklearn
+time
+datetime
+cloudmesh
+json
+typing
