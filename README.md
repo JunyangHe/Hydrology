@@ -2,19 +2,23 @@
 
 Junyang He, Ying-Jung Chen, Anushka Idamekorala, Geoffrey Fox
 
-This repo contains the code for the paper [Science Time Series: Deep Learning in Hydrology](https://arxiv.org/abs/2410.15218).
+This repo contains the LSTM model and data preprocessing code for the paper [Science Time Series: Deep Learning in Hydrology](https://arxiv.org/abs/2410.15218).
 
 
-## Train
-- Training checkpoints will be stored in a directory named "checkpoints" in the "Hydrology" directory.
-- Locations used for training and validation are stored in a file named "Validation[RunName]" in the "Hydrology" directory.
+## Hydrology-LSTM Script
+Our executable model script is designed to be run on Google Colab. 
 
-## Evaluation
+### Train
+- Training checkpoints will be stored in a directory named "checkpoints" in the specified root directory.
+- Locations used for training and validation are stored in a file named "Validation[RunName]" in the specified root directory.
+
+### Evaluation
 - One must select a previously finished run to evaluate.
-- Plots will be stored in a directory named "Outputs" in the "Hydrology" directory.
+- Plots will be stored in a directory named "Outputs" in the specified root directory.
+
 
 ## Data
-Link: https://doi.org/10.5281/zenodo.13975174
+Available for download from [Zenodo](https://doi.org/10.5281/zenodo.13975174).
 
 ### Data Structure
 ```
