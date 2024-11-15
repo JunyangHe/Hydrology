@@ -1,4 +1,4 @@
-# Science Time Series: Deep Learning in Hydrology
+# Deep Learning Foundations and Pattern Models: Challenges in Hydrological Time Series
 
 Junyang He, Ying-Jung Chen, Anushka Idamekorala, Geoffrey Fox
 
