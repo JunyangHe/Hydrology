@@ -19,6 +19,7 @@ Our executable model script is designed to be run on Google Colab.
 
 ## Data
 Available for download from [Zenodo](https://doi.org/10.5281/zenodo.13975174).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13975174.svg)](https://doi.org/10.5281/zenodo.13975174)
 
 ### Data Structure
 ```
