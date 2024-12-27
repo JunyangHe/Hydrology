@@ -1,6 +1,6 @@
 # Deep Learning Foundations and Pattern Models: Challenges in Hydrological Time Series
 
-Junyang He, Ying-Jung Chen, Anushka Idamekorala, Geoffrey Fox
+Geoffrey Fox, Junyang He, Alireza Jafari, Anushka Idamekorala, Ying-Jung Chen
 
 This repo contains the LSTM model and data preprocessing code for the paper [Deep Learning Foundations and Pattern Models: Challenges in Hydrological Time Series](https://arxiv.org/abs/2410.15218).
 
