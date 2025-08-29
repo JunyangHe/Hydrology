@@ -78,10 +78,10 @@ hydrology_data_processed
 
 ## Cite
 ```
-@misc{he2024sciencetimeseriesdeep,
-      title={Science Time Series: Deep Learning in Hydrology}, 
-      author={Junyang He and Ying-Jung Chen and Anushka Idamekorala and Geoffrey Fox},
-      year={2024},
+@misc{he2025deeplearningfoundationpattern,
+      title={Deep Learning Foundation and Pattern Models: Challenges in Hydrological Time Series}, 
+      author={Junyang He and Ying-Jung Chen and Alireza Jafari and Anushka Idamekorala and Geoffrey Fox},
+      year={2025},
       eprint={2410.15218},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
